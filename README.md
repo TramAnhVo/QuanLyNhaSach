@@ -1,2 +1,3 @@
 # QuanLyNhaSach
-LTCSDL _ app quan li nha sach 
+LTCSDL _ phần mềm quản lý nhà sách
+
